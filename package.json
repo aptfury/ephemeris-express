@@ -1,0 +1,26 @@
+{
+  "name": "ephemeris-express",
+  "version": "0.0.1",
+  "description": "Ephemeris API in expressJS",
+  "homepage": "https://github.com/aptfury/ephemeris-express#readme",
+  "bugs": {
+    "url": "https://github.com/aptfury/ephemeris-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aptfury/ephemeris-express.git"
+  },
+  "license": "MIT",
+  "author": "blake lemarr",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.4.0"
+  }
+}
