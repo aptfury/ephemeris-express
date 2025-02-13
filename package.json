@@ -13,7 +13,7 @@
   "license": "MIT",
   "author": "blake lemarr",
   "type": "module",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
